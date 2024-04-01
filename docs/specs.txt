@@ -1,1 +1,6 @@
 Specification
+
+Deatils of the specification:
+- Create a class diagram
+- Create sequence diagram
+- Write code
